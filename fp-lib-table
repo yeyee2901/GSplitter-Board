@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Treble)(type KiCad)(uri ${KIPRJMOD}/Asset/Treble.pretty)(options "")(descr ""))
+)
